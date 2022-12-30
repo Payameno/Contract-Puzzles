@@ -1,5 +1,9 @@
 ## Contract Puzzles
 
+<p align="center">
+  <img src="https://i.giphy.com/media/WRua0IqFZzYAGhNAc0/giphy.webp">
+</p>
+
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify those smart contracts.
 
 Each Game contract will have a storage variable called `isWon`:
