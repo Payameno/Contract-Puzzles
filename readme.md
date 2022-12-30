@@ -1,5 +1,5 @@
 ## Contract Puzzles
-![Contract Puzzles](https://media.giphy.com/media/WRua0IqFZzYAGhNAc0/giphy.gif)
+![Contract Puzzles](https://i.giphy.com/media/WRua0IqFZzYAGhNAc0/giphy.webp)
 
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify those smart contracts.
 
