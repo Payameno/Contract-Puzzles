@@ -1,5 +1,4 @@
 ## Contract Puzzles
-![Contract Puzzles](https://i.giphy.com/media/WRua0IqFZzYAGhNAc0/giphy.webp)
 
 <p align="center">
   <img src="https://i.giphy.com/media/WRua0IqFZzYAGhNAc0/giphy.webp">
