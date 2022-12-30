@@ -10,7 +10,7 @@ bool public isWon;
 
 The objective is to set this `isWon` to `true` without modifying the smart contract.
 
-At the same time, you're more than welcome to use `console.log` from hardhat if you need to [debug your smart contracts](https://hardhat.org/tutorial/debugging-with-hardhat-network.html#solidity-console-log).
+At the same time, `console.log` from hardhat could be used to [debug the smart contracts](https://hardhat.org/tutorial/debugging-with-hardhat-network.html#solidity-console-log).
 
 ### Running the tests
 
